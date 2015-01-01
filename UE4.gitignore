@@ -62,4 +62,5 @@ DerivedDataCache/*
 # Vim Artifacts
 *.swp
 *.swo
-ctrlp_cache/
+.ctrlp_cache/
+
